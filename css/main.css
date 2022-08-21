@@ -2,6 +2,7 @@
     background-color: yellow;
     color: black;
     margin-top: 50px;
+    padding: 50px 5%;
 }
 
 footer {
@@ -13,7 +14,7 @@ footer {
 .card-hotel {
     flex: 1 150px;
     padding: 2px 5px 2px 5px;
-    height 100%;
+    height: 100%;
 }
 
 .btn-card{
@@ -24,4 +25,8 @@ footer {
     border-color: black;
     border-style:dashed;
     
+}
+
+.footer-icon {
+    padding-right: 5px;
 }
