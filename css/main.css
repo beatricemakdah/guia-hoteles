@@ -1,16 +1,27 @@
 .jumbotron {
     background-color: yellow;
     color: black;
+    margin-top: 50px;
 }
 
 footer {
     padding: 10px 10px 0 10px;
     background-color: yellow;
-    margin-bottom: 0;
+    margin-bottom: 0px;
 }
 
 .card-hotel {
     flex: 1 150px;
     padding: 2px 5px 2px 5px;
     height 100%;
+}
+
+.btn-card{
+    color: blueviolet;
+    background-color: blanchedalmond;
+    height: fit-content;
+    font-family: 'Times New Roman', Times, serif;
+    border-color: black;
+    border-style:dashed;
+    
 }
